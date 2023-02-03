@@ -14,8 +14,8 @@ import org.xml.sax.SAXException;
 public class PDFreadtest {
 	@Test
 	public void test() throws IOException, SAXException, TikaException {
-		BodyContentHandler contenthandler = new BodyContentHandler();
 		FileInputStream fis = new FileInputStream("./src/test/resources/data/Basavaraj A Patil.pdf");
+		BodyContentHandler contenthandler = new BodyContentHandler();
 		Metadata matadata = new Metadata();
 		ParseContext parsecontext = new ParseContext();
 		PDFParser parser = new PDFParser();
