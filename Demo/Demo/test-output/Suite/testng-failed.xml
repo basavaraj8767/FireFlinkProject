@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="10" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <test thread-count="10" name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="demowebshop_testng.TS11">
+        <methods>
+          <include name="closeapp"/>
+          <include name="closebrowser"/>
+          <include name="openapp"/>
+          <include name="openbroeser"/>
+          <include name="order"/>
+        </methods>
+      </class> <!-- demowebshop_testng.TS11 -->
+      <class name="demowebshop_testng.TS27">
+        <methods>
+          <include name="closeapp"/>
+          <include name="closebrowser"/>
+          <include name="openapp"/>
+          <include name="openbroeser"/>
+          <include name="qty_ch_wish"/>
+        </methods>
+      </class> <!-- demowebshop_testng.TS27 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="demowebshop_testng.TS06"/>
+      <class name="demowebshop_testng.TS07"/>
+      <class name="demowebshop_testng.TS26"/>
+      <class name="demowebshop_testng.TS04"/>
+      <class name="demowebshop_testng.TS05"/>
+      <class name="demowebshop_testng.TS27"/>
+      <class name="demowebshop_testng.TS08"/>
+      <class name="demowebshop_testng.TS09"/>
+      <class name="demowebshop_testng.TS20"/>
+      <class name="demowebshop_testng.TS21"/>
+      <class name="demowebshop_testng.TS02"/>
+      <class name="demowebshop_testng.TS24"/>
+      <class name="demowebshop_testng.TS03"/>
+      <class name="demowebshop_testng.TS25"/>
+      <class name="demowebshop_testng.TS22"/>
+      <class name="demowebshop_testng.TS23"/>
+      <class name="demowebshop_testng.TS17"/>
+      <class name="demowebshop_testng.TS18"/>
+      <class name="demowebshop_testng.TS15"/>
+      <class name="demowebshop_testng.TS16"/>
+      <class name="demowebshop_testng.TS19"/>
+      <class name="demowebshop_testng.TS10"/>
+      <class name="demowebshop_testng.TS13"/>
+      <class name="demowebshop_testng.TS14"/>
+      <class name="demowebshop_testng.TS11"/>
+      <class name="demowebshop_testng.TS12"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

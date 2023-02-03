@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43557" started-at="2023-01-30T17:23:26 IST" finished-at="2023-01-30T17:24:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43557" started-at="2023-01-30T17:23:26 IST" finished-at="2023-01-30T17:24:10 IST">
+      <class name="ty1.Dataprovider_">
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:ty1.Dataprovider_@6483f5ae]" name="test" duration-ms="41628" started-at="2023-01-30T17:23:26 IST" data-provider="testdata" finished-at="2023-01-30T17:24:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Basavaraj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:ty1.Dataprovider_@6483f5ae]" name="test" duration-ms="43496" started-at="2023-01-30T17:23:26 IST" data-provider="testdata" finished-at="2023-01-30T17:24:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:ty1.Dataprovider_@6483f5ae]" name="test" duration-ms="40371" started-at="2023-01-30T17:23:26 IST" data-provider="testdata" finished-at="2023-01-30T17:24:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vijay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- ty1.Dataprovider_ -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
