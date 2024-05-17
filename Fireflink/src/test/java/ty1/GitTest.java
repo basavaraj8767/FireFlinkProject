@@ -3,6 +3,8 @@ package ty1;
 public class GitTest {
 	public static void main(String[] args) {
 		//Git Pull Request Test
+		int a=10;
+		String name = "FF";
 		System.out.println("Open Browser");
 		System.out.println("Navigate to URL");
 		System.out.println("Login to Git");
