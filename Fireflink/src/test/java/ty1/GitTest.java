@@ -6,5 +6,6 @@ public class GitTest {
 		System.out.println("Login to Git");
 		System.out.println("Create new Repo in Git");
 		System.out.println("Verify the Account");
+		System.out.println("Close Browser");
 	}
 }
